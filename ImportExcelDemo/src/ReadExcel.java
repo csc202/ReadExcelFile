@@ -16,7 +16,7 @@ public class ReadExcel {
 		// An excel file name. You can create a file name with a full
 		// path information.
 		//C:\Users\tkanchanawanchai6403\Documents
-		String filename = "C:\\Users\\tkanchanawanchai6403\\Documents\\test.xls";
+		String filename = "Files\\test.xls";
 
 		//
 		// Create an ArrayList to store the data read from excel sheet.
